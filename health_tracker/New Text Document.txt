@@ -1,0 +1,19 @@
+# Ignore XAMPP specific files
+/xampp/
+
+# Ignore node_modules (if any JavaScript packages are installed)
+/node_modules/
+
+# Ignore environment configuration
+.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore any log files
+*.log
+
+# Ignore IDE files
+.idea/
+*.code-workspace
